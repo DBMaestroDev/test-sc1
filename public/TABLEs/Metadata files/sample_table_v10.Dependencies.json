@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "public",
+    "name": "sample_table_v10_id_seq",
+    "type": "SEQUENCE"
+  }
+]
